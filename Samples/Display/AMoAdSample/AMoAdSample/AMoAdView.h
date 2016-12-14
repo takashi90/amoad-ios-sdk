@@ -5,7 +5,7 @@
 #import <UIKit/UIKit.h>
 @class AMoAdView;
 
-/// 広告サイズ
+/// 広告サイズ1
 typedef NS_ENUM(NSInteger, AMoAdBannerSize) {
   AMoAdBannerSizeB320x50 = 0,
   AMoAdBannerSizeB320x100 = 1,
